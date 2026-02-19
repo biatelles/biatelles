@@ -2,9 +2,13 @@
 
 **`Analista de Business Intelligence | Apaixonada por transformar dados em decisões estratégicas.`**
 
-Sou uma Analista de BI com background na área da saúde e atualmente focada em inteligência de mercado para o setor de educação. Minha paixão é explorar todo o ciclo de vida dos dados: desde a extração e processamento com Python até a criação de dashboards interativos e visualmente impactantes no Power BI.
+Sou Analista de Dados Pleno, responsável pelo desenvolvimento de produtos de BI e por uma plataforma de dados no modelo SaaS, atuando de forma end-to-end: da estruturação do dado à geração de valor para o negócio.
 
-Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Análise de Dados da Data Science Academy, sempre em busca de novas formas de gerar insights e otimizar a tomada de decisão. Fale comigo pelo [Linkedin](www.linkedin.com/in/bianca-telles).
+Atuo sozinha em todo o ciclo analítico: ETL, modelagem, SQL, Power BI e análises estratégicas. Desenvolvendo mais de 20 dashboards e trabalhando com bases que ultrapassam 50 milhões de linhas, atendendo dezenas de clientes e gerando impacto direto no aumento de vendas e no faturamento da empresa.
+
+Tenho forte capacidade de traduzir dados em decisões, conectando análise técnica, visão de negócio e comunicação clara para públicos técnicos e não técnicos.
+
+Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Análise de Dados da Data Science Academy. Fale comigo pelo [Linkedin](www.linkedin.com/in/bianca-telles).
 
 ---
 
