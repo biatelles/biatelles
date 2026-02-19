@@ -16,7 +16,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="Python"
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -26,7 +26,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="Figma"
     title="Figma" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -35,7 +35,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="Docker"
     title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -44,7 +44,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="Anaconda"
     title="Anaconda" 
     width="30px" 
     style="padding-right: 10px;" 
@@ -53,7 +53,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 
 <img 
    align="left" 
-    alt="HTML"
+    alt="Flutter"
     title="Flutter" 
     width="30px" 
     style="padding-right: 10px;"
@@ -62,7 +62,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 
 <img 
    align="left" 
-    alt="HTML"
+    alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;"
