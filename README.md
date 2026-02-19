@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bianca Telles 
 
-**`Analista de Business Intelligence | Apaixonada por transformar dados em decisões estratégicas.`**
+**`Analista de Business Intelligence | Transformo dados em direcionamento`**
 
 Sou Analista de Dados Pleno, responsável pelo desenvolvimento de produtos de BI e por uma plataforma de dados no modelo SaaS, atuando de forma end-to-end: da estruturação do dado à geração de valor para o negócio.
 
