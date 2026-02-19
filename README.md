@@ -17,7 +17,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -27,7 +27,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Figma" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
@@ -36,7 +36,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Docker" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
@@ -45,7 +45,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Anaconda" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
@@ -54,7 +54,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 <img 
    align="left" 
     alt="HTML"
-    title="HTML" 
+    title="Flutter" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
@@ -63,7 +63,7 @@ Atualmente, estou aprofundando meus conhecimentos na Pós-Graduação em Anális
 <img 
    align="left" 
     alt="HTML"
-    title="HTML" 
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
